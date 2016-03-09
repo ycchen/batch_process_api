@@ -29,7 +29,6 @@ Things you may want to cover:
 - rake db:seed
 
 - rspec spec/requests/authors_spec.rb:79 #batch_create
-- 
 - rspec spec/requests/authors_spec.rb:125 #batch_update
 
 
