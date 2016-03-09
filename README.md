@@ -24,3 +24,12 @@ Things you may want to cover:
        
 - rails g scaffold author name
 
+- rake db:migrate
+
+- rake db:seed
+
+- rspec spec/requests/authors_spec.rb:79 #batch_create
+- 
+- rspec spec/requests/authors_spec.rb:125 #batch_update
+
+
